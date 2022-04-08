@@ -1,0 +1,4 @@
+*.nii.gz
+*.mha
+*.vtp
+*.npy
